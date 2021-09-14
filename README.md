@@ -19,10 +19,10 @@
 ##
  
 <div>
-  <a href="https://www.linkedin.com/in/kallil-belmonte/" target="_blank">
+  <a href="https://www.linkedin.com/in/kallil-belmonte" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codepen.io/kallil-belmonte" target="_blank">
+  <a href="https://codepen.io/kallil-belmonte/collections" target="_blank">
     <img src="https://img.shields.io/badge/-Codepen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
   <a href="https://www.behance.net/kallil" target="_blank">
