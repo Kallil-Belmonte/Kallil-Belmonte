@@ -17,9 +17,3 @@
 </div>
 
 ##
- 
-<div>
-  <a href="https://bento.me/kallil" target="_blank">
-    <img src="https://global-uploads.webflow.com/6335b33630f88833a92915fc/63860225045ce50e33d20eb3_Logo.svg" width="44" alt="Bento" />
-  </a>
-</div>
