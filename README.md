@@ -19,13 +19,7 @@
 ##
  
 <div>
-  <a href="https://www.linkedin.com/in/kallil-belmonte" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/kallil-belmonte/collections" target="_blank">
-    <img src="https://img.shields.io/badge/-Codepen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-  <a href="https://www.behance.net/kallil" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" />
+  <a href="https://bento.me/kallil" target="_blank">
+    <img src="https://global-uploads.webflow.com/6335b33630f88833a92915fc/63860225045ce50e33d20eb3_Logo.svg" width="44" alt="Bento" />
   </a>
 </div>
